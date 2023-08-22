@@ -1,4 +1,11 @@
-### Hi there 👋
+## ✨ I'm Miracle575. A newcomer who just entered the workplace.
+## 📈Statistics
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Miracle575&show_icons=true" />
+</div>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miracle575&show_icons=true" />
+</div>
 
 <!--
 **Miracle575/Miracle575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
